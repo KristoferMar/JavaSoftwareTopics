@@ -1,7 +1,5 @@
 package towers;
 
-import ObjectOrientedProgramming.DefenceTower;
-
 public class FreezeTower extends DefenceTower {
 
 	public FreezeTower(int damage, int attackSpeed) {

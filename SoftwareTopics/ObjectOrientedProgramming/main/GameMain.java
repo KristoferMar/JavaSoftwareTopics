@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package main;
 
 import towers.FreezeTower;
 import towers.SplashTower;

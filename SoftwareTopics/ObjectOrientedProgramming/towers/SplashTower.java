@@ -1,7 +1,5 @@
 package towers;
 
-import ObjectOrientedProgramming.DefenceTower;
-
 public class SplashTower extends DefenceTower {
 
 	public SplashTower(int damage, int attackSpeed) {

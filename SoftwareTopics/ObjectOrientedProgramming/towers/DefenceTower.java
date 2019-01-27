@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package towers;
 
 public class DefenceTower {
 	
@@ -14,7 +14,7 @@ public class DefenceTower {
 		System.out.println("New tower was placed");
 	}
 	
-	public void sellTower(DefenceTower tower) {
+	public void sellTower() {
 		System.out.println("Tower was just selled.");
 	}
 
