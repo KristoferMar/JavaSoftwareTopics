@@ -8,7 +8,7 @@ public class RemoveDuplicateFromArray {
 	
 	public static void main(String args[]) {
 		
-		int arr[] = {10, 20, 20, 3, 3, 30, 30, 40, 50, 50};
+		int arr[] = {10, 20, 20, 30, 30, 40, 50, 50};
 		int length = arr.length;
 		length = removeDuplicateElements(arr, length);
 		//Printing array elements
@@ -39,5 +39,4 @@ public class RemoveDuplicateFromArray {
 		}
 		return j;
 	}
-
 }
