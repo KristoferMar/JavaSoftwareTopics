@@ -9,12 +9,10 @@ import towers.SplashTower;
 
 public class GameMain {
 	
-	public static void main(String args[]) {
+	int tower;
+	
+	public static void main(String[] args) {
 		
-		FreezeTower tower = new FreezeTower(100, 10);
-		tower.placeFreezeTower();	
-		
-		SplashTower splashTower = new SplashTower(120, 8);
-		splashTower.placeSplashTower();
+		System.out.println("hello");
 	}
 }
