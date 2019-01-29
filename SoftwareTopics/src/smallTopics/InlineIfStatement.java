@@ -10,8 +10,6 @@ public class InlineIfStatement {
 	
 		// "your condition"? "step if true":"step if condition fails"
 		
-
-
 	}
 
 }
